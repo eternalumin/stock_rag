@@ -1,0 +1,12 @@
+streamlit
+langchain
+langgraph
+langchain-community
+langchain-groq
+chromadb
+yfinance
+sentence-transformers
+numpy
+pandas
+plotly
+ta
